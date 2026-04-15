@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import HeroNavbar from "@/components/feature/HeroNavbar";
 import Footer from "@/components/feature/Footer";
+import GlobalToursFAQ from "@/pages/global-tours/components/GlobalToursFAQ";
 
 const tours = [
   {
@@ -155,6 +156,9 @@ export default function GlobalToursPage() {
             </div>
           </div>
         </section>
+
+        {/* FAQ */}
+        <GlobalToursFAQ />
 
         {/* CTA */}
         <section className="py-20 bg-[#0f1c19]">
