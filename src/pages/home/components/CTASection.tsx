@@ -19,7 +19,7 @@ export default function CTASection() {
               Explore the World with UA Travels
             </h2>
             <p className="text-white/55 text-base mb-10 max-w-md leading-relaxed">
-              Discover new destinations and exclusive offers — your next adventure is one conversation away.
+              Discover new destinations and exclusive offers. Your next adventure is one conversation away.
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
               <a

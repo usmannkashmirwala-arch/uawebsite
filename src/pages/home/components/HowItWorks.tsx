@@ -8,7 +8,7 @@ const steps = [
   {
     num: "02",
     title: "We Do The Hard Work",
-    desc: "We research flights, hotels, visas, and itineraries — building options tailored specifically for you.",
+    desc: "We research flights, hotels, visas, and itineraries, building options tailored specifically for you.",
     icon: "ri-search-eye-line",
   },
   {
@@ -31,7 +31,7 @@ export default function HowItWorks() {
             </h2>
           </div>
           <p className="text-gray-400 text-sm leading-relaxed max-w-xs">
-            Three simple steps — we take care of everything in between.
+            Three simple steps; we take care of everything in between.
           </p>
         </div>
 

@@ -61,7 +61,7 @@ const services = [
   {
     icon: "ri-file-list-3-line",
     title: "Document Checklist",
-    desc: "A complete, personalised checklist based on your profile — employment, finances, travel history, and destination.",
+    desc: "A complete, personalised checklist based on your profile, covering employment, finances, travel history, and destination.",
   },
   {
     icon: "ri-bank-line",
@@ -112,7 +112,7 @@ export default function VisaAssistancePage() {
             Profile-Specific<br />Visa Guidance.
           </h1>
           <p className="text-white/65 text-base md:text-lg mb-10 max-w-lg font-light leading-relaxed">
-            Visa rules change constantly. We guide you based on your passport strength, travel history, and destination — so you apply with confidence, not guesswork.
+            Visa rules change constantly. We guide you based on your passport strength, travel history, and destination, so you apply with confidence, not guesswork.
           </p>
           <a
             href="https://tally.so/r/9qZjB4"
@@ -194,7 +194,7 @@ export default function VisaAssistancePage() {
             <div>
               <h3 className="text-white font-bold text-lg mb-3">Important Note</h3>
               <p className="text-white/50 text-sm leading-relaxed max-w-2xl">
-                UA Travels provides visa documentation guidance and application support. We do not guarantee visa approval — that decision rests solely with the respective embassy or consulate. Our role is to ensure your application is as strong as possible based on your individual profile and travel history.
+                UA Travels provides visa documentation guidance and application support. We do not guarantee visa approval; that decision rests solely with the respective embassy or consulate. Our role is to ensure your application is as strong as possible based on your individual profile and travel history.
               </p>
             </div>
           </div>
@@ -207,7 +207,7 @@ export default function VisaAssistancePage() {
           <p className="text-[11px] font-semibold uppercase tracking-[0.2em] text-gray-400 mb-4">Start Your Application</p>
           <h2 className="text-4xl md:text-5xl font-black text-[#0f1c19] mb-6">Apply With Confidence</h2>
           <p className="text-gray-400 text-base mb-10 max-w-md mx-auto leading-relaxed">
-            Tell us your destination and passport — we&apos;ll advise on the exact requirements for your profile.
+            Tell us your destination and passport and we&apos;ll advise on the exact requirements for your profile.
           </p>
           <a
             href="https://tally.so/r/9qZjB4"

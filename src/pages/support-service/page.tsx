@@ -5,7 +5,7 @@ const scenarios = [
   {
     icon: "ri-flight-land-line",
     title: "Missed Connection",
-    desc: "Your connecting flight was cancelled. We rebook you on the next available option and handle the airline on your behalf — while you're still at the airport.",
+    desc: "Your connecting flight was cancelled. We rebook you on the next available option and handle the airline on your behalf while you're still at the airport.",
   },
   {
     icon: "ri-hotel-line",
@@ -64,7 +64,7 @@ export default function SupportServicePage() {
             An Experienced Advisor<br />Wherever You Are.
           </h1>
           <p className="text-white/65 text-base md:text-lg mb-10 max-w-lg font-light leading-relaxed">
-            While online portals sell tickets, we stay with you. Our travel advisors are available around the clock — someone who knows your trip, understands your situation, and can act on your behalf immediately.
+            While online portals sell tickets, we stay with you. Our travel advisors are available around the clock. Someone who knows your trip, understands your situation, and can act on your behalf immediately.
           </p>
           <a
             href="https://tally.so/r/9qZjB4"
@@ -91,7 +91,7 @@ export default function SupportServicePage() {
                 When something goes wrong at 2am in a foreign country, you don't want to navigate an automated phone system or wait 48 hours for an email response. You want to speak to someone who knows your booking, understands the situation, and can take action immediately.
               </p>
               <p className="text-white/55 text-sm leading-relaxed">
-                That's what we provide. Every client has direct access to their travel advisor — not a call centre, not a ticketing system. A real person who booked your trip and knows every detail of it.
+                That's what we provide. Every client has direct access to their travel advisor, not a call centre, not a ticketing system. A real person who booked your trip and knows every detail of it.
               </p>
             </div>
             <div className="grid grid-cols-1 gap-px bg-white/10">

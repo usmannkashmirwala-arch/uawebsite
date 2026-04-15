@@ -13,7 +13,7 @@ export default function DestinationHero() {
           Explore Our Destinations
         </h1>
         <p className="text-white/80 text-lg max-w-xl">
-          From tropical paradises to ancient wonders — find your perfect destination and start planning your dream trip.
+          From tropical paradises to ancient wonders. Find your perfect destination and start planning your dream trip.
         </p>
       </div>
     </section>

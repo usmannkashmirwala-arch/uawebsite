@@ -10,13 +10,13 @@ export default function MoneySaving() {
               Pakistani credit and debit cards face a <strong className="text-[#0f1c19]">16% foreign transaction fee</strong> when booking from international airline and hotel websites. We eliminate that entirely.
             </p>
             <p className="text-gray-500 leading-relaxed text-sm">
-              We accept bank cheques and provide card machine service in Karachi. You pay only the actual package cost plus our transparent service fee — no hidden currency conversion markup. For many trips, the fees you avoid plus better fares we access <strong className="text-[#0f1c19]">offset our service fee entirely</strong>.
+              We accept bank cheques and provide card machine service in Karachi. You pay only the actual package cost plus our transparent service fee, with no hidden currency conversion markup. For many trips, the fees you avoid plus better fares we access <strong className="text-[#0f1c19]">offset our service fee entirely</strong>.
             </p>
           </div>
           <div className="grid grid-cols-2 gap-4">
             {[
               { icon: "ri-bank-card-line", title: "No 16% Fee", desc: "Eliminate foreign transaction charges on all bookings" },
-              { icon: "ri-shield-check-line", title: "Transparent Pricing", desc: "Clear breakdown of every cost — no hidden markups" },
+              { icon: "ri-shield-check-line", title: "Transparent Pricing", desc: "Clear breakdown of every cost, with no hidden markups" },
               { icon: "ri-building-2-line", title: "Partner Rates", desc: "Direct hotel partnerships for better prices and perks" },
               { icon: "ri-customer-service-2-line", title: "24/7 Support", desc: "We're with you throughout your entire journey" },
             ].map((item) => (

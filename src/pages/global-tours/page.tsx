@@ -30,17 +30,17 @@ const whyDifferent = [
   {
     icon: "ri-group-line",
     title: "Small Groups Only",
-    desc: "8 to 15 people maximum on every tour — personal enough to feel exclusive, social enough to share the experience.",
+    desc: "8 to 15 people maximum on every tour, personal enough to feel exclusive, social enough to share the experience.",
   },
   {
     icon: "ri-checkbox-circle-line",
     title: "Everything Included",
-    desc: "Flights, hotels, transfers, activities, and visa — packaged together so you don't have to coordinate anything yourself.",
+    desc: "Flights, hotels, transfers, activities, and visa, all packaged together so you don't have to coordinate anything yourself.",
   },
   {
     icon: "ri-headphone-line",
     title: "24/7 Support On Trip",
-    desc: "A UA Travels advisor is available throughout your tour — real support, not a helpline that puts you on hold.",
+    desc: "A UA Travels advisor is available throughout your tour, with real support instead of a helpline that puts you on hold.",
   },
 ];
 
@@ -79,7 +79,7 @@ export default function GlobalToursPage() {
               <span className="text-white/60">With UA Travels</span>
             </h1>
             <p className="text-white/55 text-base md:text-lg max-w-xl mb-8 leading-relaxed font-light">
-              Curated small-group tours to unforgettable destinations — 8 to 15 people, so every experience feels personal.
+              Curated small-group tours to unforgettable destinations. 8 to 15 people, so every experience feels personal.
             </p>
             <a
               href="https://tally.so/r/9qZjB4"
@@ -99,7 +99,7 @@ export default function GlobalToursPage() {
             <div className="mb-12">
               <p className="text-[11px] font-semibold uppercase tracking-[0.2em] text-gray-400 mb-3">Current Tours</p>
               <h2 className="text-3xl md:text-4xl font-black text-[#0f1c19] leading-tight">Tour Packages</h2>
-              <p className="text-gray-400 text-sm mt-3 max-w-lg">All tours are limited to small groups for the best experience. Spots fill quickly — register your interest early.</p>
+              <p className="text-gray-400 text-sm mt-3 max-w-lg">All tours are limited to small groups for the best experience. Spots fill quickly, so register your interest early.</p>
             </div>
 
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
@@ -162,7 +162,7 @@ export default function GlobalToursPage() {
             <p className="text-[11px] font-semibold uppercase tracking-[0.2em] text-white/30 mb-4">Custom Travel</p>
             <h2 className="text-3xl md:text-4xl font-black text-white mb-4">Don't See a Tour You're Looking For?</h2>
             <p className="text-white/45 text-sm max-w-md mx-auto mb-8 leading-relaxed">
-              Tell us where you want to go — we build customised packages for individuals and groups too.
+              Tell us where you want to go and we build customised packages for individuals and groups too.
             </p>
             <a
               href="https://tally.so/r/9qZjB4"

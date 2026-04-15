@@ -36,7 +36,7 @@ export default function PackagesHero() {
           <span className="text-white/60">Built Around You</span>
         </h1>
         <p className="text-white/55 text-base md:text-lg max-w-xl mb-8 leading-relaxed font-light">
-          Complete travel experiences tailored to your personality, pace, and interests — using professional airline systems and 30+ years of expertise.
+          Complete travel experiences tailored to your personality, pace, and interests, using professional airline systems and 30+ years of expertise.
         </p>
         <a
           href="https://tally.so/r/9qZjB4"

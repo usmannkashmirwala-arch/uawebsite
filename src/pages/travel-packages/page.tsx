@@ -43,7 +43,7 @@ export default function TravelPackagesPage() {
               Travel Packages
             </h1>
             <p className="text-white/80 text-lg max-w-xl">
-              Handcrafted itineraries with flights, hotels, and experiences — all bundled for the best value.
+              Handcrafted itineraries with flights, hotels, and experiences, all bundled for the best value.
             </p>
           </div>
         </section>

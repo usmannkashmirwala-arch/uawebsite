@@ -8,7 +8,7 @@ export default function MapSection() {
             Our Global Reach
           </h2>
           <p className="text-gray-500 mt-4 max-w-xl mx-auto">
-            From the peaks of the Himalayas to the beaches of the Caribbean — we&apos;ve got you covered across 50+ countries.
+            From the peaks of the Himalayas to the beaches of the Caribbean, we&apos;ve got you covered across 50+ countries.
           </p>
         </div>
 

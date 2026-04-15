@@ -5,7 +5,7 @@ const values = [
   {
     icon: "ri-heart-line",
     title: "Relationship First",
-    desc: "We build long-term relationships with our clients. Most of our business comes from repeat travellers and referrals — that tells us everything.",
+    desc: "We build long-term relationships with our clients. Most of our business comes from repeat travellers and referrals, which tells us everything.",
   },
   {
     icon: "ri-eye-line",
@@ -85,7 +85,7 @@ export default function AboutUsPage() {
                 We started with airline ticketing and corporate travel. As international tourism grew among Pakistani travellers, we expanded into customised leisure packages, hotel bookings, visa assistance, and group tours.
               </p>
               <p className="text-gray-500 text-sm leading-relaxed">
-                Today, we serve thousands of travellers every year — from first-time international travellers to seasoned explorers looking for something beyond the ordinary. Our clients come back because they trust us, and they refer their families and friends because we deliver.
+                Today, we serve thousands of travellers every year, from first-time international travellers to seasoned explorers looking for something beyond the ordinary. Our clients come back because they trust us, and they refer their families and friends because we deliver.
               </p>
             </div>
             <div className="relative">

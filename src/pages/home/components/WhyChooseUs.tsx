@@ -8,7 +8,7 @@ const features = [
   {
     icon: "ri-price-tag-3-line",
     title: "Best Price Guarantee",
-    desc: "We match any lower price you find. Transparent pricing with no hidden fees — what you see is what you pay.",
+    desc: "We match any lower price you find. Transparent pricing with no hidden fees. What you see is what you pay.",
     color: "bg-teal-50 text-teal-600",
   },
   {
@@ -47,7 +47,7 @@ export default function WhyChooseUs() {
             Your Journey, Our Passion
           </h2>
           <p className="text-gray-500 mt-4 max-w-xl mx-auto">
-            We go beyond booking — we craft unforgettable experiences that you&apos;ll talk about for years.
+            We go beyond booking; we craft unforgettable experiences that you&apos;ll talk about for years.
           </p>
         </div>
 

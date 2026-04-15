@@ -5,17 +5,17 @@ const advantages = [
   {
     icon: "ri-flight-takeoff-line",
     title: "Sabre GDS Access",
-    desc: "We book through Sabre — the same professional airline distribution system used by major travel agencies worldwide. Fares and routes simply unavailable on consumer platforms.",
+    desc: "We book through Sabre, the same professional airline distribution system used by major travel agencies worldwide. Fares and routes simply unavailable on consumer platforms.",
   },
   {
     icon: "ri-time-line",
     title: "Hold Fares for 3 Days",
-    desc: "Lock in a fare while you finalise your plans. We can hold most tickets for up to 72 hours without payment — a privilege only available through professional systems.",
+    desc: "Lock in a fare while you finalise your plans. We can hold most tickets for up to 72 hours without payment, a privilege only available through professional systems.",
   },
   {
     icon: "ri-route-line",
     title: "Complex Routing",
-    desc: "Multi-city trips, open-jaw tickets, and unusual connections — we build itineraries that consumer platforms can't even display.",
+    desc: "Multi-city trips, open-jaw tickets, and unusual connections; we build itineraries that consumer platforms can't even display.",
   },
   {
     icon: "ri-exchange-line",
@@ -30,7 +30,7 @@ const advantages = [
   {
     icon: "ri-customer-service-2-line",
     title: "Human Support",
-    desc: "When something goes wrong mid-trip — a missed connection, a cancellation — you call us. We act immediately on your behalf.",
+    desc: "When something goes wrong mid-trip, a missed connection or a cancellation, you call us. We act immediately on your behalf.",
   },
 ];
 
@@ -77,7 +77,7 @@ export default function FlightDealsPage() {
             Access Fares Before<br />They Disappear.
           </h1>
           <p className="text-white/65 text-base md:text-lg mb-10 max-w-lg font-light leading-relaxed">
-            We book flights through Sabre GDS — the professional airline system — giving you fares, routes, and flexibility that simply don't exist on any consumer booking platform.
+            We book flights through Sabre GDS, the professional airline system, giving you fares, routes, and flexibility that simply don't exist on any consumer booking platform.
           </p>
           <a
             href="https://tally.so/r/9qZjB4"
@@ -153,7 +153,7 @@ export default function FlightDealsPage() {
               Global Departures
             </h2>
             <p className="text-gray-400 text-sm mt-4 max-w-lg leading-relaxed">
-              Flying from Karachi, Lahore, or Islamabad — we connect you to destinations across Europe, Asia, the Americas, Africa, and beyond.
+              Flying from Karachi, Lahore, or Islamabad, we connect you to destinations across Europe, Asia, the Americas, Africa, and beyond.
             </p>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-px bg-gray-200 mt-10">
@@ -180,7 +180,7 @@ export default function FlightDealsPage() {
           <p className="text-[11px] font-semibold uppercase tracking-[0.2em] text-gray-400 mb-4">Ready to Fly?</p>
           <h2 className="text-4xl md:text-5xl font-black text-[#0f1c19] mb-6">Get Your Flight Details Now</h2>
           <p className="text-gray-400 text-base mb-10 max-w-md mx-auto leading-relaxed">
-            Share your travel dates and destination — we'll come back with options you won't find anywhere else.
+            Share your travel dates and destination and we'll come back with options you won't find anywhere else.
           </p>
           <a
             href="https://tally.so/r/9qZjB4"

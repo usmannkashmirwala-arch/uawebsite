@@ -230,7 +230,7 @@ export default function TomorrowlandPage() {
           <p className="text-gray-500 text-sm leading-relaxed">
             Have fun, and <strong className="text-[#0f1c19]">NEVER STOP EXPLORING.</strong>
           </p>
-          <p className="text-gray-400 text-sm mt-1">— UA Travels &amp; Tours</p>
+          <p className="text-gray-400 text-sm mt-1">UA Travels &amp; Tours</p>
         </div>
       </section>
 

@@ -10,14 +10,14 @@ const services = [
   },
   {
     title: "Global Tours",
-    desc: "Small-group tours to niche destinations — curated experiences with like-minded travellers.",
+    desc: "Small-group tours to niche destinations, curated experiences with like-minded travellers.",
     link: "/global-tours",
     image: "https://storage.readdy-site.link/project_files/79967ff0-018e-4818-aac4-172f0e8c5494/a9a10ef5-03c3-4fb7-9e48-d272bf652c5e_Home-Global-Tours-Service-Image-.jpg?v=615e7b2b34d9cf93b6ec670fb4a1ec0c",
     tag: "Limited Spots",
   },
   {
     title: "Discounted Hotel Booking",
-    desc: "Premium hotels through exclusive partner portals — chosen carefully, priced better, located right.",
+    desc: "Premium hotels through exclusive partner portals, chosen carefully, priced better, located right.",
     link: "/hotel-bookings",
     image: "https://storage.readdy-site.link/project_files/79967ff0-018e-4818-aac4-172f0e8c5494/29b3557c-c8db-4183-a02c-e20b8058d246_Home-Hotel-Booking-Service-Image-.jpg?v=41451f535cce7d1881496b9580d39500",
     tag: null,
@@ -31,21 +31,21 @@ const services = [
   },
   {
     title: "Visa Assistance",
-    desc: "Expert visa documentation for Schengen, USA, Japan, and 130+ destinations — tailored for Pakistani applicants.",
+    desc: "Expert visa documentation for Schengen, USA, Japan, and 130+ destinations, tailored for Pakistani applicants.",
     link: "/visa-assistance",
     image: "https://storage.readdy-site.link/project_files/79967ff0-018e-4818-aac4-172f0e8c5494/1d266bb5-b702-47b2-9431-0612772f8e61_Home-Visa-Assistance-Service-Image-.jpg?v=964a07a0562047db8583e5f7473568a7",
     tag: null,
   },
   {
     title: "24/7 Support Service",
-    desc: "Direct access to experienced advisors throughout your trip — real humans, not automated chatbots.",
+    desc: "Direct access to experienced advisors throughout your trip. Real humans, not automated chatbots.",
     link: "/support-service",
     image: "https://storage.readdy-site.link/project_files/79967ff0-018e-4818-aac4-172f0e8c5494/47e4127d-1e04-4fad-bab8-636405e6a9fa_Home-247-Service-Image-.jpg?v=407aad191eb5266e02c82f4a214f7ade",
     tag: null,
   },
   {
     title: "Travel Insurance",
-    desc: "Embassy recognised coverage up to $100,000 — visa compliant, affordable through our direct provider relationships.",
+    desc: "Embassy recognised coverage up to $100,000, visa-compliant and affordable through our direct provider relationships.",
     link: "/travel-insurance",
     image: "https://storage.readdy-site.link/project_files/79967ff0-018e-4818-aac4-172f0e8c5494/a1e1c31f-83a8-46cb-8ed5-43d03acc42ea_Home-Travel-Insurance-Service-Image-.jpg?v=769a4cb0b423c8ccbea37ddec438425f",
     tag: null,
@@ -66,7 +66,7 @@ export default function ServicesSection() {
             </h2>
           </div>
           <p className="text-gray-500 text-sm leading-relaxed max-w-sm">
-            From customised itineraries to visa documentation — we handle every detail so you can focus on the experience.
+            From customised itineraries to visa documentation, we handle every detail so you can focus on the experience.
           </p>
         </div>
 

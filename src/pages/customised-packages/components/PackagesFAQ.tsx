@@ -51,7 +51,7 @@ const faqs = [
   },
   {
     q: "Can you create packages for special occasions like honeymoons or anniversaries?",
-    a: "Yes. We design packages around your occasion's needs: romantic neighbourhoods, special dining experiences, appropriate pacing that prioritises relaxation over rushing, and memorable activities suited to couples. We understand which destinations work for different celebration styles — beach escapes, cultural city experiences, adventure trips, or luxury resort relaxation.",
+    a: "Yes. We design packages around your occasion's needs: romantic neighbourhoods, special dining experiences, appropriate pacing that prioritises relaxation over rushing, and memorable activities suited to couples. We understand which destinations work for different celebration styles, whether beach escapes, cultural city experiences, adventure trips, or luxury resort relaxation.",
   },
   {
     q: "Do customised packages include travel insurance?",

@@ -16,7 +16,7 @@ const values = [
   {
     icon: "ri-shield-check-line",
     title: "Everything Included",
-    desc: "Flights, hotels, transfers, experiences — all arranged and confirmed before you leave. No surprises.",
+    desc: "Flights, hotels, transfers, experiences, all arranged and confirmed before you leave. No surprises.",
   },
   {
     icon: "ri-heart-line",
@@ -29,7 +29,7 @@ const tours = [
   {
     title: "Tomorrowland Packages",
     subtitle: "Belgium · Annual Music Festival",
-    desc: "The world's greatest music festival. We handle flights, hotels near the venue, festival tickets, and transfers — so you just show up and experience it.",
+    desc: "The world's greatest music festival. We handle flights, hotels near the venue, festival tickets, and transfers, so you just show up and experience it.",
     tag: "Limited Spots",
     tagColor: "bg-amber-500/20 text-amber-300 border-amber-500/30",
     image: "https://storage.readdy-site.link/project_files/79967ff0-018e-4818-aac4-172f0e8c5494/a9a10ef5-03c3-4fb7-9e48-d272bf652c5e_Home-Global-Tours-Service-Image-.jpg?v=615e7b2b34d9cf93b6ec670fb4a1ec0c",
@@ -39,7 +39,7 @@ const tours = [
   {
     title: "Full Moon Festival",
     subtitle: "Koh Phangan, Thailand · Monthly",
-    desc: "The legendary Full Moon Party on Koh Phangan. We arrange the full Thailand experience — Bangkok, islands, and the festival itself.",
+    desc: "The legendary Full Moon Party on Koh Phangan. We arrange the full Thailand experience, Bangkok, islands, and the festival itself.",
     tag: "Filling Fast",
     tagColor: "bg-emerald-500/20 text-emerald-300 border-emerald-500/30",
     image: "https://readdy.ai/api/search-image?query=Full%20Moon%20Party%20Koh%20Phangan%20Thailand%20beach%20night%20festival%20fire%20dancers%20neon%20lights%20ocean%20tropical%20island%20celebration%20vibrant%20atmosphere&width=800&height=600&seq=fullmoon1&orientation=landscape",
@@ -97,7 +97,7 @@ export default function GroupToursPage() {
               </h2>
             </div>
             <p className="text-gray-400 text-sm leading-relaxed max-w-xs">
-              We want to build a community of experienced travellers who seek the finest experiences — not just another holiday.
+              We want to build a community of experienced travellers who seek the finest experiences, not just another holiday.
             </p>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-px bg-gray-100">

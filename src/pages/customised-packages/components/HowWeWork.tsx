@@ -12,7 +12,7 @@ export default function HowWeWork() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-10 mb-12">
           <div>
             <p className="text-gray-500 leading-relaxed mb-5 text-sm">
-              We use <strong className="text-[#0f1c19]">Sabre airline systems</strong> — the same professional routing software used by airlines and corporate travel managers — giving us access to fare classes and routing combinations that consumer platforms simply don't show.
+              We use <strong className="text-[#0f1c19]">Sabre airline systems</strong>, the same professional routing software used by airlines and corporate travel managers, giving us access to fare classes and routing combinations that consumer platforms simply don't show.
             </p>
             <p className="text-gray-500 leading-relaxed text-sm">
               Every package starts with a conversation. We learn where you want to go, your budget, who you're travelling with, and what matters most. Then we build something that fits.
@@ -46,7 +46,7 @@ export default function HowWeWork() {
             Three decades of experience means we know which Rome experiences suit culture lovers versus shoppers, which Bangkok neighbourhoods have authentic street food, which Dubai activities engage teenagers, and which Paris museums are worth visiting.
           </p>
           <p className="text-white/50 leading-relaxed mb-8 text-sm">
-            We make <strong className="text-white/80">personality-based recommendations</strong>. Tell us you're a foodie, an adventure seeker, a history enthusiast, or someone who prefers relaxation — and we recommend accordingly.
+            We make <strong className="text-white/80">personality-based recommendations</strong>. Tell us you're a foodie, an adventure seeker, a history enthusiast, or someone who prefers relaxation, and we recommend accordingly.
           </p>
           <a
             href="https://tally.so/r/9qZjB4"

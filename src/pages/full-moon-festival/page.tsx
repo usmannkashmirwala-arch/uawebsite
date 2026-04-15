@@ -31,7 +31,7 @@ const journey = [
   },
   {
     date: "May 30th – June 2nd",
-    location: "Koh Samui — Full Moon",
+    location: "Koh Samui, Full Moon",
     desc: "Full Moon mode ON. Fire shows, neon lights, beach vibes, and nights you'll be telling stories about for years.",
   },
   {
@@ -42,7 +42,7 @@ const journey = [
   {
     date: "June 3rd–5th",
     location: "Phuket",
-    desc: "Sun, beaches, and the best of Thailand's island life. On June 5th, take a day trip to the renowned Phi Phi Island — snorkelling and scuba diving at your convenience.",
+    desc: "Sun, beaches, and the best of Thailand's island life. On June 5th, take a day trip to the renowned Phi Phi Island, with snorkelling and scuba diving at your convenience.",
   },
   {
     date: "June 6th",
@@ -165,7 +165,7 @@ export default function FullMoonFestivalPage() {
           <p className="text-gray-500 text-sm leading-relaxed">
             Have fun, and <strong className="text-[#0f1c19]">NEVER STOP EXPLORING.</strong>
           </p>
-          <p className="text-gray-400 text-sm mt-1">— UA Travels &amp; Tours</p>
+          <p className="text-gray-400 text-sm mt-1">UA Travels &amp; Tours</p>
         </div>
       </section>
 

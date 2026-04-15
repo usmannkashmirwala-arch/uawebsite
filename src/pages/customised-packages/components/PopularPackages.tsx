@@ -74,7 +74,7 @@ export default function PopularPackages() {
             <h2 className="text-3xl md:text-4xl font-black text-[#0f1c19] leading-tight">Popular Package Destinations</h2>
           </div>
           <p className="text-gray-400 text-sm max-w-xs leading-relaxed">
-            Inspiration only — every package is fully customised to your needs.
+            Inspiration only; every package is fully customised to your needs.
           </p>
         </div>
 
@@ -100,7 +100,7 @@ export default function PopularPackages() {
                     </li>
                   ))}
                 </ul>
-                <p className="text-[10px] text-gray-400 italic mb-3">Rates not guaranteed — contact us for a personalised quote.</p>
+                <p className="text-[10px] text-gray-400 italic mb-3">Rates not guaranteed, contact us for a personalised quote.</p>
                 <a
                   href="https://tally.so/r/9qZjB4"
                   target="_blank"

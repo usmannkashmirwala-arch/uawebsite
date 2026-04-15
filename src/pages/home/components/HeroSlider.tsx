@@ -21,14 +21,14 @@ const slides = [
     image: "https://readdy.ai/api/search-image?query=Kenya%20Africa%20safari%20savanna%20golden%20hour%20elephants%20lions%20dramatic%20orange%20sunset%20vast%20plains%20wildlife%20adventure%20cinematic&width=1600&height=900&seq=hero3&orientation=landscape",
     location: "Masai Mara, Kenya",
     tagline: "The Wild Calls Your Name",
-    sub: "Small-group tours to niche destinations — curated experiences with like-minded travellers.",
+    sub: "Small-group tours to niche destinations, curated experiences with like-minded travellers.",
   },
   {
     id: 4,
     image: "https://readdy.ai/api/search-image?query=Machu%20Picchu%20Peru%20ancient%20Inca%20ruins%20dramatic%20mountain%20peaks%20misty%20clouds%20lush%20green%20terraces%20mystical%20atmosphere%20adventure&width=1600&height=900&seq=hero4&orientation=landscape",
     location: "Machu Picchu, Peru",
     tagline: "Conquer the Impossible",
-    sub: "30+ years of expertise — your adventure starts with one conversation.",
+    sub: "30+ years of expertise. Your adventure starts with one conversation.",
   },
 ];
 

@@ -45,12 +45,12 @@ const benefits = [
   {
     icon: "ri-building-line",
     title: "Exclusive Partner Portals",
-    desc: "We access hotel inventory through professional B2B portals unavailable to the public — giving you better rates and added benefits.",
+    desc: "We access hotel inventory through professional B2B portals unavailable to the public, giving you better rates and added benefits.",
   },
   {
     icon: "ri-map-pin-line",
     title: "Location Intelligence",
-    desc: "We know which neighbourhoods actually make sense for your trip — not just which hotels look good on a website.",
+    desc: "We know which neighbourhoods actually make sense for your trip, not just which hotels look good on a website.",
   },
   {
     icon: "ri-gift-line",
@@ -88,7 +88,7 @@ export default function HotelBookingsPage() {
             Chosen Carefully.<br />Located Right.
           </h1>
           <p className="text-white/65 text-base md:text-lg mb-10 max-w-lg font-light leading-relaxed">
-            We book hotels through exclusive partner portals and long-standing relationships — giving you access to better rates, added benefits, and the right locations for your trip.
+            We book hotels through exclusive partner portals and long-standing relationships, giving you access to better rates, added benefits, and the right locations for your trip.
           </p>
           <a
             href="https://tally.so/r/9qZjB4"
@@ -177,7 +177,7 @@ export default function HotelBookingsPage() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-px bg-white/10">
             {[
               { step: "01", title: "Tell Us Your Trip", desc: "Share your destination, dates, travel style, and any preferences. We listen carefully." },
-              { step: "02", title: "We Research & Recommend", desc: "We search our partner portals and shortlist 2-3 options that genuinely fit your trip — not just the most expensive ones." },
+              { step: "02", title: "We Research & Recommend", desc: "We search our partner portals and shortlist 2-3 options that genuinely fit your trip, not just the most expensive ones." },
               { step: "03", title: "Confirmed & Supported", desc: "Once you choose, we handle the booking and stay available throughout your stay if anything needs adjusting." },
             ].map((item) => (
               <div key={item.step} className="bg-[#0f1c19] p-10">

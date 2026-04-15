@@ -15,7 +15,7 @@ export default function PackagesCTA() {
           Ready to Plan Your Perfect Trip?
         </h2>
         <p className="text-white/45 text-base mb-10 leading-relaxed">
-          Tell us where you want to go — we'll handle everything from there.
+          Tell us where you want to go and we'll handle everything from there.
         </p>
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
           <a

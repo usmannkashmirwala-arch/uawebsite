@@ -45,7 +45,7 @@ export default function TravelInsurancePage() {
             Mandatory for Many.<br />Essential for All.
           </h1>
           <p className="text-white/65 text-base md:text-lg mb-10 max-w-lg font-light leading-relaxed">
-            Many travellers only realise they need travel insurance at the last minute — often paying far more at the airport. We arrange embassy-recognised coverage quickly, correctly, and before it becomes a problem.
+            Many travellers only realise they need travel insurance at the last minute, often paying far more at the airport. We arrange embassy-recognised coverage quickly, correctly, and before it becomes a problem.
           </p>
           <a
             href="https://tally.so/r/9qZjB4"
@@ -66,7 +66,7 @@ export default function TravelInsurancePage() {
             {[
               { icon: "ri-shield-check-line", title: "Embassy Recognised", desc: "Our insurance policies are accepted by Schengen embassies, UK Home Office, and other consulates worldwide." },
               { icon: "ri-money-dollar-circle-line", title: "Competitive Rates", desc: "Direct provider relationships mean we can offer better rates than what you'd find buying independently." },
-              { icon: "ri-speed-line", title: "Fast Issuance", desc: "We can issue your policy within hours — even if your visa appointment is tomorrow." },
+              { icon: "ri-speed-line", title: "Fast Issuance", desc: "We can issue your policy within hours, even if your visa appointment is tomorrow." },
             ].map((item) => (
               <div key={item.title} className="bg-[#0f1c19] p-8">
                 <div className="w-10 h-10 flex items-center justify-center mb-5">
@@ -141,7 +141,7 @@ export default function TravelInsurancePage() {
           <p className="text-[11px] font-semibold uppercase tracking-[0.2em] text-gray-400 mb-4">Don&apos;t Travel Unprotected</p>
           <h2 className="text-4xl md:text-5xl font-black text-[#0f1c19] mb-6">Get Covered Before You Go</h2>
           <p className="text-gray-400 text-base mb-10 max-w-md mx-auto leading-relaxed">
-            Tell us your destination and travel dates — we'll arrange the right policy for your trip.
+            Tell us your destination and travel dates and we'll arrange the right policy for your trip.
           </p>
           <a
             href="https://tally.so/r/9qZjB4"
