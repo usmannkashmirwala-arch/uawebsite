@@ -211,7 +211,7 @@ export default function TomorrowlandPage() {
                 Contact us and we&apos;ll arrange all transportation and put together a custom package to make things easy for you.
               </p>
               <a
-                href="https://tally.so/r/9qZjB4"
+                href="https://wa.me/message/S2FTRUXB6BO4F1"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 px-6 py-3 border border-white/30 text-white text-sm font-semibold hover:bg-white/10 hover:border-white transition-all whitespace-nowrap cursor-pointer"

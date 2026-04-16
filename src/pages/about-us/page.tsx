@@ -58,7 +58,7 @@ export default function AboutUsPage() {
             We are a family-run travel business shaped by decades of real industry experience. What began as a passion for travel and aviation has grown into a service-driven agency built on long-term relationships.
           </p>
           <a
-            href="https://tally.so/r/9qZjB4"
+            href="https://wa.me/message/S2FTRUXB6BO4F1"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-8 py-3.5 border border-white/60 text-white font-semibold text-sm tracking-wide hover:bg-white/10 hover:border-white transition-all whitespace-nowrap cursor-pointer w-fit"
@@ -176,7 +176,7 @@ export default function AboutUsPage() {
             Whether it's your first international trip or your fiftieth, we bring the same care and expertise to every journey.
           </p>
           <a
-            href="https://tally.so/r/9qZjB4"
+            href="https://wa.me/message/S2FTRUXB6BO4F1"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-10 py-4 bg-white text-[#0f1c19] font-semibold text-sm tracking-wide hover:bg-white/90 transition-all whitespace-nowrap cursor-pointer"

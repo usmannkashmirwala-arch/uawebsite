@@ -159,10 +159,11 @@ These exact URLs must always be used — never change them:
 
 | Purpose | URL |
 |---|---|
-| Contact / All CTAs | `https://tally.so/r/9qZjB4` (open in new tab) |
+| "Contact Us" buttons (navbar + contact CTAs) | `https://wa.me/message/S2FTRUXB6BO4F1` (open in new tab) |
+| Quote / Inquiry / Service CTAs | `https://tally.so/r/9qZjB4` (open in new tab) |
 | Facebook | `https://facebook.com/profile.php?id=100077260250631&mibextid=wwXIfr` |
 | Instagram | `https://instagram.com/uatravelsandtours` |
-| WhatsApp | `https://wa.me/923001234567` |
+| WhatsApp (footer social icon) | `https://wa.me/923001234567` |
 
 ---
 
@@ -279,7 +280,7 @@ The GitHub Actions workflow (`.github/workflows/deploy.yml`):
 ## What NEVER to Change
 
 - The logo image URL
-- The Tally contact form URL (`https://tally.so/r/9qZjB4`)
+- The WhatsApp Business contact URL (`https://wa.me/message/S2FTRUXB6BO4F1`)
 - The social media URLs in both `Navbar.tsx` and `Footer.tsx`
 - The `__BASE_PATH__` usage in `App.tsx` (the `basename` prop on BrowserRouter)
 - The `__BASE_PATH__` and `__IS_PREVIEW__` defines in `vite.config.ts`
