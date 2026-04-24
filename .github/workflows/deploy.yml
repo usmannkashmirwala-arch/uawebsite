@@ -27,7 +27,7 @@ jobs:
 
       - name: Build
         env:
-          BASE_PATH: /uawebsite/
+          BASE_PATH: /
         run: npm run build
 
       - name: Copy index.html to 404.html (fixes client-side routing on GitHub Pages)
@@ -39,3 +39,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./out
           publish_branch: gh-pages
+          cname: www.uatrips.com
