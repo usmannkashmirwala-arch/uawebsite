@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 const services = [
   { label: "Discounted Hotel Bookings", path: "/hotel-bookings" },
   { label: "Exclusive Flight Deals", path: "/flight-deals" },
-  { label: "Group Tours", path: "/group-tours" },
+  { label: "Global Tours", path: "/global-tours" },
   { label: "Visa Assistance", path: "/visa-assistance" },
   { label: "24/7 Support Service", path: "/support-service" },
   { label: "Travel Insurance", path: "/travel-insurance" },
@@ -36,7 +36,7 @@ export default function Footer() {
               <a href="https://instagram.com/uatravelsandtours" rel="nofollow" target="_blank" className="w-8 h-8 flex items-center justify-center border border-white/15 text-white/40 hover:text-white hover:border-white/40 transition-colors cursor-pointer">
                 <i className="ri-instagram-line text-sm"></i>
               </a>
-              <a href="https://wa.me/923001234567" rel="nofollow" target="_blank" className="w-8 h-8 flex items-center justify-center border border-white/15 text-white/40 hover:text-white hover:border-white/40 transition-colors cursor-pointer">
+              <a href="https://wa.me/923338286879" rel="nofollow" target="_blank" className="w-8 h-8 flex items-center justify-center border border-white/15 text-white/40 hover:text-white hover:border-white/40 transition-colors cursor-pointer">
                 <i className="ri-whatsapp-line text-sm"></i>
               </a>
             </div>

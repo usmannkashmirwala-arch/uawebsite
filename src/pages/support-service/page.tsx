@@ -67,7 +67,7 @@ export default function SupportServicePage() {
             While online portals sell tickets, we stay with you. Our travel advisors are available around the clock. Someone who knows your trip, understands your situation, and can act on your behalf immediately.
           </p>
           <a
-            href="https://wa.me/message/S2FTRUXB6BO4F1"
+            href="https://wa.me/923338286879"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-8 py-3.5 border border-white/60 text-white font-semibold text-sm tracking-wide hover:bg-white/10 hover:border-white transition-all whitespace-nowrap cursor-pointer w-fit"
@@ -162,7 +162,7 @@ export default function SupportServicePage() {
             Planning a trip or already travelling? Reach out and speak to a real advisor who can help.
           </p>
           <a
-            href="https://wa.me/message/S2FTRUXB6BO4F1"
+            href="https://wa.me/923338286879"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-10 py-4 bg-[#0f1c19] text-white font-semibold text-sm tracking-wide hover:bg-[#1a2e2a] transition-all whitespace-nowrap cursor-pointer"

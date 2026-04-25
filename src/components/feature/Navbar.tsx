@@ -95,7 +95,7 @@ export default function Navbar() {
               <i className="ri-instagram-line text-lg"></i>
             </a>
             <a
-              href="https://wa.me/message/S2FTRUXB6BO4F1"
+              href="https://wa.me/923338286879"
               target="_blank"
               rel="noopener noreferrer"
               className={`px-5 py-1.5 text-[13px] font-semibold whitespace-nowrap cursor-pointer transition-all duration-200 tracking-wide border ${
@@ -162,7 +162,7 @@ export default function Navbar() {
             </a>
           </div>
           <a
-            href="https://wa.me/message/S2FTRUXB6BO4F1"
+            href="https://wa.me/923338286879"
             target="_blank"
             rel="noopener noreferrer"
             className="mt-1 px-5 py-3 border border-[#1a2e2a] text-[#1a2e2a] text-sm font-semibold text-center whitespace-nowrap cursor-pointer tracking-wide"

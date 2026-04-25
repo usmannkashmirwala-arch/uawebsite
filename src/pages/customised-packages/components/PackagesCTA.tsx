@@ -28,7 +28,7 @@ export default function PackagesCTA() {
             <i className="ri-arrow-right-line"></i>
           </a>
           <a
-            href="https://wa.me/923001234567"
+            href="https://wa.me/923338286879"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 border border-white/25 text-white/70 font-semibold px-8 py-3.5 text-sm tracking-wide hover:border-white/50 hover:text-white transition-all whitespace-nowrap cursor-pointer"
