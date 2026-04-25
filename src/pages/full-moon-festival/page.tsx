@@ -15,37 +15,37 @@ const packageIncludes = [
 
 const journey = [
   {
-    date: "May 27th",
+    date: "June 24th",
     location: "Bangkok",
     desc: "Land at Suvarnabhumi International Airport at 6am. Get picked up from the airport, have a filling breakfast before check-in, then get ready for a sunset cruise at the Chao Phraya River at 7pm.",
   },
   {
-    date: "May 28th–30th",
+    date: "June 25th–27th",
     location: "Bangkok (Free Days)",
     desc: "Be your own boss, roam around as you please. Explore the city at your own pace.",
   },
   {
-    date: "May 30th",
+    date: "June 27th",
     location: "Bangkok → Koh Samui",
     desc: "Fly from Bangkok to Phuket and use ferry transport to reach the island of Koh Samui.",
   },
   {
-    date: "May 30th – June 2nd",
+    date: "June 27th – June 30th",
     location: "Koh Samui, Full Moon",
-    desc: "Full Moon mode ON. Fire shows, neon lights, beach vibes, and nights you'll be telling stories about for years.",
+    desc: "Full Moon mode ON. Fire shows, neon lights, beach vibes, and nights you'll be telling stories about for years. The Full Moon falls on June 29th.",
   },
   {
-    date: "June 2nd",
+    date: "June 30th",
     location: "Koh Samui Jungle Safari",
     desc: "Go for the famous Jungle Safari by JEEP on Koh Samui island. Lunch included.",
   },
   {
-    date: "June 3rd–5th",
+    date: "July 1st–3rd",
     location: "Phuket",
-    desc: "Sun, beaches, and the best of Thailand's island life. On June 5th, take a day trip to the renowned Phi Phi Island, with snorkelling and scuba diving at your convenience.",
+    desc: "Sun, beaches, and the best of Thailand's island life. On July 3rd, take a day trip to the renowned Phi Phi Island, with snorkelling and scuba diving at your convenience.",
   },
   {
-    date: "June 6th",
+    date: "July 4th",
     location: "Fly Home",
     desc: "Return flights from KHI/LHE. Pack the memories, leave nothing else behind.",
   },
@@ -72,7 +72,7 @@ export default function FullMoonFestivalPage() {
             Thailand Full Moon<br />Festival
           </h1>
           <p className="text-white/70 text-lg md:text-xl font-light tracking-wide mb-10">
-            26th May &ndash; 6th June
+            24th June &ndash; 4th July
           </p>
           <a
             href="#package"
