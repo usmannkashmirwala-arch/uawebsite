@@ -2,13 +2,13 @@ import HeroNavbar from "@/components/feature/HeroNavbar";
 import Footer from "@/components/feature/Footer";
 
 const packageIncludes = [
-  "Direct Return Flights (KHI/LHE)",
-  "Direct flight from Bangkok to Phuket",
-  "5 Star Hotels/Resorts in Bangkok, Koh Samui and Phuket",
+  "Return Flights (KHI/LHE/ISB)",
+  "5 Star Hotels/Resorts in Phuket, Koh Samui and Bangkok",
   "Daily Breakfast Included",
   "Bangkok Sunset Dinner Cruise Included",
   "Koh Samui Jungle Safari By JEEP With Lunch Included",
   "Phi Phi Island Adventure Day Tour with Lunch from Phuket Included",
+  "National Ferry from Phuket to Koh Samui Included",
   "All Transfers Included",
   "Visa Included",
 ];
@@ -16,18 +16,23 @@ const packageIncludes = [
 const journey = [
   {
     date: "June 24th",
-    location: "Bangkok",
-    desc: "Land at Suvarnabhumi International Airport at 6am. Get picked up from the airport, have a filling breakfast before check-in, then get ready for a sunset cruise at the Chao Phraya River at 7pm.",
+    location: "Phuket",
+    desc: "Land at Phuket International Airport. Get picked up from the airport, have a filling breakfast before check-in, then settle in and enjoy the island life.",
   },
   {
-    date: "June 25th–27th",
-    location: "Bangkok (Free Days)",
-    desc: "Be your own boss, roam around as you please. Explore the city at your own pace.",
+    date: "June 25th–26th",
+    location: "Phuket (Free Days)",
+    desc: "Sun, beaches, and the best of Thailand's island life. Be your own boss, roam around as you please.",
+  },
+  {
+    date: "June 26th",
+    location: "Phi Phi Island Day Trip",
+    desc: "Take a day trip to the renowned Phi Phi Island, with snorkelling and scuba diving at your convenience. Lunch included.",
   },
   {
     date: "June 27th",
-    location: "Bangkok → Koh Samui",
-    desc: "Fly from Bangkok to Phuket and use ferry transport to reach the island of Koh Samui.",
+    location: "Phuket → Koh Samui",
+    desc: "Board the National Ferry from Phuket to make your way to the island of Koh Samui.",
   },
   {
     date: "June 27th – June 30th",
@@ -40,14 +45,19 @@ const journey = [
     desc: "Go for the famous Jungle Safari by JEEP on Koh Samui island. Lunch included.",
   },
   {
-    date: "July 1st–3rd",
-    location: "Phuket",
-    desc: "Sun, beaches, and the best of Thailand's island life. On July 3rd, take a day trip to the renowned Phi Phi Island, with snorkelling and scuba diving at your convenience.",
+    date: "July 1st",
+    location: "Koh Samui → Bangkok",
+    desc: "Fly from Koh Samui to Bangkok. Get settled into the city, then end the evening with a sunset cruise at the Chao Phraya River.",
+  },
+  {
+    date: "July 2nd–3rd",
+    location: "Bangkok (Free Days)",
+    desc: "Be your own boss, roam around as you please. Explore the city at your own pace.",
   },
   {
     date: "July 4th",
     location: "Fly Home",
-    desc: "Return flights from KHI/LHE. Pack the memories, leave nothing else behind.",
+    desc: "Return flights from Bangkok (KHI/LHE/ISB). Pack the memories, leave nothing else behind.",
   },
 ];
 
@@ -66,7 +76,7 @@ export default function FullMoonFestivalPage() {
         <HeroNavbar />
         <div className="relative z-10 flex-1 flex flex-col justify-center items-center text-center pb-16 px-6 max-w-5xl mx-auto w-full">
           <p className="text-[11px] font-bold uppercase tracking-[0.3em] text-[#b8a98a] mb-5">
-            BANGKOK &rarr; KOH SAMUI &rarr; PHUKET
+            PHUKET &rarr; KOH SAMUI &rarr; BANGKOK
           </p>
           <h1 className="text-5xl md:text-7xl font-black text-white leading-tight mb-5 tracking-tight uppercase">
             Thailand Full Moon<br />Festival
