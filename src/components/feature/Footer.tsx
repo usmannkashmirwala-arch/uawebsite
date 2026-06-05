@@ -36,7 +36,7 @@ export default function Footer() {
               <a href="https://instagram.com/uatravelsandtours" rel="nofollow" target="_blank" className="w-8 h-8 flex items-center justify-center border border-white/15 text-white/40 hover:text-white hover:border-white/40 transition-colors cursor-pointer">
                 <i className="ri-instagram-line text-sm"></i>
               </a>
-              <a href="https://wa.me/923338286879" rel="nofollow" target="_blank" className="w-8 h-8 flex items-center justify-center border border-white/15 text-white/40 hover:text-white hover:border-white/40 transition-colors cursor-pointer">
+              <a href="https://wa.me/923330937869" rel="nofollow" target="_blank" className="w-8 h-8 flex items-center justify-center border border-white/15 text-white/40 hover:text-white hover:border-white/40 transition-colors cursor-pointer">
                 <i className="ri-whatsapp-line text-sm"></i>
               </a>
             </div>
